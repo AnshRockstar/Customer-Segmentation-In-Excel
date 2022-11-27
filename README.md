@@ -42,5 +42,5 @@ This is how we can target a customer based on the customer segmentation which wi
 
 
 <p align="center"> 
-<img src="https://github.com/AnshRockstar/Customer-Segmentation-In-Excel/blob/main/Images/R-F-M%20Analysis.png" alt="R-F-M Analysis.jpg"  height="450px">
+<img src="https://github.com/AnshRockstar/Customer-Segmentation-In-Excel/blob/main/Images/R-F-M%20Analysis.png" alt="R-F-M Analysis.jpg"  height="500px">
 </p>
