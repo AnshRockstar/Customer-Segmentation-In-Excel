@@ -32,13 +32,15 @@ Based on the above R-F-M score, we can give some Recommendations.
 **Lost Cheap Customers**: Send them personalized emails/messages/notifications to encourage them to order.
 
 
-
-<p align="center"> 
-<img src="https://github.com/AnshRockstar/NYC-Taxi-Trip-Duration-Prediction/blob/main/Images/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
-</p>
-
 **Big Spenders**: Notify them about the discounts to keep them spending more and more money on your products
 
 **Loyal Customers**: Create loyalty cards in which they can gain points each time of purchasing and these points could transfer into a discount
 
 This is how we can target a customer based on the customer segmentation which will help in marketing campaigns. Thus saving marketing costs, grab the customer, make customers spend more thereby increasing the revenue.
+
+
+
+
+<p align="center"> 
+<img src="https://github.com/AnshRockstar/Customer-Segmentation-In-Excel/blob/main/Images/R-F-M%20Analysis.png" alt="R-F-M Analysis.jpg"  height="320px">
+</p>
