@@ -1,3 +1,10 @@
+<h1 align="center"> NYC Taxi Time Prediction </h1>
+<h3 align="center"> Airtribe Verfied Project - <a href="https://www.airtribe.live/home">  </a> </h5>
+
+<p align="center"> 
+<img src="https://github.com/AnshRockstar/NYC-Taxi-Trip-Duration-Prediction/blob/main/Images/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
+</p>
+
 # Customer-Segmentation-In-Excel
 Perform R-F-M Analysis to determine the nature of Customer
 
