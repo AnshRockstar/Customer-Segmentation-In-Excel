@@ -1,11 +1,6 @@
-<h1 align="center"> NYC Taxi Time Prediction </h1>
-<h3 align="center"> Airtribe Verfied Project - <a href="https://www.airtribe.live/home">  </a> </h5>
+<h1 align="center"> Customer-Segmentation-In-Excel </h1>
+<h3 align="center"> Airtribe Verfied Project - <a href="https://www.airtribe.live/home"> Airtribe </a> </h5>
 
-<p align="center"> 
-<img src="https://github.com/AnshRockstar/NYC-Taxi-Trip-Duration-Prediction/blob/main/Images/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
-</p>
-
-# Customer-Segmentation-In-Excel
 Perform R-F-M Analysis to determine the nature of Customer
 
 
@@ -35,6 +30,12 @@ Based on the above R-F-M score, we can give some Recommendations.
 **Best Customers**: We can Reward them for their multiples purchases. They can be early adopters to very new products. Suggest them “Refer a friend”. Also, they can be the most loyal customers that have the habit to order.
 
 **Lost Cheap Customers**: Send them personalized emails/messages/notifications to encourage them to order.
+
+
+
+<p align="center"> 
+<img src="https://github.com/AnshRockstar/NYC-Taxi-Trip-Duration-Prediction/blob/main/Images/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
+</p>
 
 **Big Spenders**: Notify them about the discounts to keep them spending more and more money on your products
 
